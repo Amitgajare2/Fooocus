@@ -113,7 +113,8 @@ See also the common problems and troubleshoots [here](troubleshoot.md).
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/drive/1V9MtY-SPbBv0GRWDAooqPnMDOb0gR4a0?usp=sharing) | Fooocus Official
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V9MtY-SPbBv0GRWDAooqPnMDOb0gR4a0?usp=sharing) | Fooocus Official
+
 
 In Colab, you can modify the last line to `!python entry_with_update.py --share --always-high-vram` or `!python entry_with_update.py --share --always-high-vram --preset anime` or `!python entry_with_update.py --share --always-high-vram --preset realistic` for Fooocus Default/Anime/Realistic Edition.
 
